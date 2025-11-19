@@ -1,6 +1,18 @@
 ## ClimateWins Machine Learning Exploration
 
-For this project, I assumed the role of a junior data analyst for the fictional company ClimateWins. The organization is concerned about the rise in extreme weather events over the last 10–20 years and believes that, with the help of machine learning, even severe weather conditions can be better understood and planned for. Using weather records from the past century, the goal is to develop models that can reveal climate trends and forecast future conditions.
+Using machine learning to help predict the consequences of climate change for fictional company ClimateWins based in Europe.
+
+This is a project designed to challenge the junior data analyst by introducing machine learning skills in Python. The project mimics a fictional nonprofit organization (CliamteWins) with limited funding that does not have a data scientist or data engineer team. This challenge guides the analysts as a trainee, data scientist and researcher all at once to achieve ClimateWins goals. This project contains supervised learning models including:
+
+1. Steps to scale data to make it easier to use in machine learning models.
+2. Dendrogram and Principal Component Analysis (PCA)
+3. Deep Learning in Keras Convolution Neural Networks (CNN) and Recurrent Neural Networks (RNN)
+4. Decision Trees and Random Forest
+5. Hyperparameters and Tuning Models:
+- Random Search
+- Bayesian Search
+6. Handwriting Recognition with Convolution Neural Networks (CNN) & MNIST
+- Radar Recognition with Generative Adversarial Networks (GAN)
 
 ## Data Source
 
